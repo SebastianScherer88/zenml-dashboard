@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ZenMLIcon from "@/assets/icons/zenml-icon.svg?react";
+import ZenMLIcon from "@/assets/icons/gray_bettmensch_ai_icon.svg?react";
 import Close from "@/assets/icons/close.svg?react";
 import { useServerInfo } from "@/data/server/info-query";
 import { checkIsLocalServer } from "@/lib/server";

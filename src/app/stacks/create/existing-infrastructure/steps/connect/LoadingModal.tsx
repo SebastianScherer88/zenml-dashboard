@@ -1,5 +1,5 @@
 import Dots from "@/assets/icons/dots-horizontal.svg?react";
-import Zenml from "@/assets/icons/zenml-icon.svg?react";
+import Zenml from "@/assets/icons/gray_bettmensch_ai_icon.svg?react";
 import { CloudProviderIcon } from "@/components/ProviderIcon";
 import { Tick } from "@/components/Tick";
 import { getCloudProviderName } from "@/lib/provider";
